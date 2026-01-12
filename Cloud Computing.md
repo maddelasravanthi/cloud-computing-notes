@@ -1,11 +1,17 @@
- What is Cloud Computing?
-Cloud computing means using computing resources (servers, storage, databases, networking, software) over the internet instead of your own physical computer or data center.
-Simple words: You rent IT resources from cloud providers and use them when needed.
-Example:
-Gmail → You don’t install mail servers
-Google Drive → You don’t buy hard disks
+# Cloud Computing
 
-**Popular cloud providers:**
-Amazon Web Services (AWS)
-Microsoft Azure
-Google Cloud Platform (GCP)
+## What is Cloud Computing?
+Cloud computing is the delivery of computing services such as servers,
+storage, databases, networking, software, and analytics over the internet.
+
+## Key Characteristics
+- On-demand self-service
+- Broad network access
+- Resource pooling
+- Rapid elasticity
+- Measured service
+
+## Examples
+- AWS
+- Microsoft Azure
+- Google Cloud Platform
